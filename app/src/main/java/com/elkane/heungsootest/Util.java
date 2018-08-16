@@ -220,7 +220,7 @@ public class Util {
                 if (isPrivitiveType(value)) {
                     strLog = prefix + "필드명 : " + field.getName() + ", value : " + value;
                     writeDataLog(sourceFileName, strLog, isFileLogging);
-                } else if (value.getClass().getName().contains("com.briniclemobile.wibeetalk")) {
+                } else if (value.getClass().getName().contains("com.elkane.heungsootest")) {
                     strLog = prefix + "[" + value.getClass().getSimpleName() + "]필드명 : " + field.getName() + ", value : " + value;
                     writeDataLog(sourceFileName, strLog, isFileLogging);
                     showDataLog(null, value, sourceFileName, subLevel, isFileLogging);
