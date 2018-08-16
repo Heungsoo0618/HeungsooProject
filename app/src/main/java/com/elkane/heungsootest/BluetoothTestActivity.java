@@ -49,6 +49,7 @@ public class BluetoothTestActivity extends Activity {
             Toast.makeText(thisContext,"인터넷 연결이 끊겨있습니다.",Toast.LENGTH_LONG).show();
             txt_currentStatus.setText("인터넷 연결이 끊겨있습니다.");
         }
+        Util.logcat("크하하하하하하하하 내가 집에서 커밋함ㅇㅁㅇㅁㅇㅇㅇㅇ");
     }
 
     private void initLayout()
