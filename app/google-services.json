@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586440942366",
+    "firebase_url": "https://heungsootest.firebaseio.com",
+    "project_id": "heungsootest",
+    "storage_bucket": "heungsootest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586440942366:android:a0ec5d9a26c08dfa",
+        "android_client_info": {
+          "package_name": "com.elkane.heungsootest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586440942366-c8or6jq1dqkmif99kpuqasgdic9u7qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AFiIvESjrPRfl-wOrhYIj8-BZcwN_Ro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
